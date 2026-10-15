@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #0c0a08;
+    color: #e5ded6;
+  }
+}
+
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
+
+/* Custom gold gradient and glow utilities */
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #dfa73b 0%, #b87e1f 100%);
+}
+
+.bg-gold-gradient:hover {
+  background: linear-gradient(135deg, #ebb448 0%, #c68925 100%);
+}
+
+.text-gold-gradient {
+  background: linear-gradient(135deg, #f7d58b 0%, #d59e35 50%, #ae781c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+

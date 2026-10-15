@@ -1,0 +1,51 @@
+{
+  "users": [],
+  "barbeariaAberta": true,
+  "horarios": "Seg a Sáb: 8h às 12h Manhã\nA Tarde das 14:30 às 17:30",
+  "valorCorte": 20,
+  "pix": {
+    "chave": "47943015000157",
+    "nomeRecebedor": "Romilton Andre Sales Santos",
+    "cidadeRecebedor": "PARAMIRIM-BAHIA",
+    "pixCopiaColaOpcional": "",
+    "whatsapp": "77998614589"
+  },
+  "fidelidadeConfig": {
+    "promocaoAtiva": true,
+    "cortesParaGanhar": 6
+  },
+  "aviso": null,
+  "fila": [],
+  "cartoes": [
+    {
+      "id": "c-2",
+      "codigo": "144D2D",
+      "nome": "Adão",
+      "telefone": "",
+      "totalCortes": 2,
+      "cortesCiclo": 2,
+      "createdAt": "2026-10-15T20:16:02.579Z",
+      "updatedAt": "2026-10-15T20:16:02.579Z"
+    },
+    {
+      "id": "c-3",
+      "codigo": "B5B419",
+      "nome": "Adria",
+      "telefone": "",
+      "totalCortes": 2,
+      "cortesCiclo": 2,
+      "createdAt": "2026-10-15T20:16:02.579Z",
+      "updatedAt": "2026-10-15T20:16:02.579Z"
+    },
+    {
+      "id": "c-4",
+      "codigo": "8C18AD",
+      "nome": "Adriano arraial",
+      "telefone": "",
+      "totalCortes": 0,
+      "cortesCiclo": 0,
+      "createdAt": "2026-10-15T20:16:02.579Z",
+      "updatedAt": "2026-10-15T20:16:02.579Z"
+    }
+  ]
+}

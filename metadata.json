@@ -1,0 +1,6 @@
+{
+  "name": "Dedé Cabeleireiro",
+  "description": "Dedé Cabeleireiro - Sistema completo de barbearia com fila em tempo real, pagamentos PIX, cartão fidelidade e painel do administrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
